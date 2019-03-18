@@ -1,0 +1,16 @@
+{
+  "name": "gitrepo",
+  "version": "0.0.1",
+  "description": "Intro to GitHub",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "repo",
+    "git"
+  ],
+  "author": "Volodymyr Vankovych",
+  "license": "ISC"
+}
